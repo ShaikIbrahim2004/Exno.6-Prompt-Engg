@@ -233,11 +233,24 @@ Analyzes the comparison and generates actionable insights or recommendations bas
 Organizes the results and insights in a clear, structured format (such as a dictionary or JSON).
 The code should be modular, reusable, and easy to extend for more APIs or advanced analysis in the future.
 Include comments to explain each step."
-       
+# verification in ai models:
+1. chat gpt
+2. gemini ai
+3. perplexity ai
+# outputs:
+chat gpt:
+![image](https://github.com/user-attachments/assets/f27fe322-f1cd-40f5-89c4-297fa6fbbc6c)
+gemini ai
+![image](https://github.com/user-attachments/assets/3f25ce52-5d6d-47d5-a005-0d18ceaf44a7)
+perplexity ai
+![image](https://github.com/user-attachments/assets/0cd98bc4-42a4-4071-8405-cf45180f1cf2)
 
 
 
 
 
 
-# Result: The corresponding Prompt is executed successfully
+
+
+
+# Result: The corresponding Prompt is executed in three ai models successfully.
